@@ -6,58 +6,17 @@ date: 2021-03-18
 
 # Photos
 
-These are not photos from a camping trip, however it showcases the love and friendship of the Hayakawa family!
+Here's a gist of how Hayakawa Camping goes...
 
-*_Satire in the following descriptions_
+import {Photo} from "../components/photo";
+import {ProfileContainer} from "../components/profile-container";
 
-import Image from "next/image";
-
-<Image
-  src="/images/david-fish.jpg"
-  alt="Photo"
-  width={1125}
-  height={750}
-  priority
-  className="next-image"
-/>
-How we nourish ourselves on the Flambeau River.
-
-<Image
-  src="/images/hayakawa-campfire.jpg"
-  alt="Photo"
-  width={1125}
-  height={750}
-  priority
-  className="next-image"
-/>
-Fires we build to cook our steaks on the river. We like our steak well-done.
-
-<Image
-  src="/images/hayakawa-family.jpg"
-  alt="Photo"
-  width={1125}
-  height={750}
-  priority
-  className="next-image"
-/>
-The immediate family of the Hayakawa household.
-
-<Image
-  src="/images/hayakawa-family-2.jpg"
-  alt="Photo"
-  width={1125}
-  height={750}
-  priority
-  className="next-image"
-/>
-... again.
-
-<Image
-  src="/images/hayakawa-decision-making.jpg"
-  alt="Photo"
-  width={1125}
-  height={750}
-  priority
-  className="next-image"
-/>
-How decisions are made on the Flameau River.
+<ProfileContainer>
+<Photo filename={'hayakawa-decision-making.jpg'} caption={'How decisions are made at Hayakawa Camping'} />
+<Photo filename={'hayakawa-family.jpg'} caption={'A group of Hayakawas'}/>
+<Photo filename={'hayakawa-family-2.jpg'} caption={'A group of Hayakawas on another day'}/>
+<Photo filename={'kadin-fish-1.jpg'} caption={'A young Hayakawa with a fish'}/>
+<Photo filename={'moth-and-david-2.jpg'} caption={'An elder Hayakawa and neature'}/>
+<Photo filename={'campsite-water.jpg'} caption={'neature'} />
+<Photo filename={'canoe-pole-1.jpg'} caption={'a Hayakawa hunting fish on their home'}/>
+</ProfileContainer>

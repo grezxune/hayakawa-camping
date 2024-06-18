@@ -1,5 +1,5 @@
 ---
-id: camping
+id: 2024-pre-trip
 createdAt: 06/15/2024
 title: 2024 Pre-Trip
 description: Details regarding the 2024 installation of Hayakawa Camping
@@ -7,7 +7,7 @@ description: Details regarding the 2024 installation of Hayakawa Camping
 
 | When | Where | Who |
 |------|-------|-----|
-| July 12-14, 2024 | North fork of the Flambeau River | <ul><li>David Hayakawa</li><li>Kadin Hayakawa</li><li>Kadin's Cousin</li><li>Tommy Treb</li>|
+| July 12-14, 2024 | North fork of the Flambeau River | <ul><li>David Hayakawa</li><li>Kadin Hayakawa</li><li>AJ</li><li>Tommy Treb</li>|
 
 ## What to bring:
 ### Wet bag (shoes, clothes, sleeping stuff)

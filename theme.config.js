@@ -5,7 +5,6 @@ export default {
     <footer>
       <small>
         <time>{YEAR}</time> © Hayakawa Camping.
-        <a href="/feed.xml">RSS</a>
       </small>
       <style jsx>{`
         footer {
