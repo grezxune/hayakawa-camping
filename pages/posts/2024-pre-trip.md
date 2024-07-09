@@ -42,6 +42,7 @@ description: Details regarding the 2024 installation of Hayakawa Camping
 ### Friday:
 - Leave town at 7/8 am
 - Get up there at noon
+- We'll have 3 vehicles, we don't need to pay anyone to drive our car to the end. We'll just have Tommy and AJ drop off a car.
 - Get on the river and float for 4ish hours (get to campsite around 4/6)
 - Set up camp
 - Fish for a bit
@@ -53,8 +54,52 @@ description: Details regarding the 2024 installation of Hayakawa Camping
 
 ### Sunday:
 - Float/fish for 2-3 hours
-- Guy paid to drive David's truck from entry point down to where we exit the river
 - We drive up to pick up our other vehicle at entry point
 - Drive back to exit point and pack up
 - Drive home
 - Plan next trip 😊
+
+
+### Stuff David is bringing so you don't have to
+- Map, compass
+- Extra heavy 3mil garbage bags for water protection (not really waterproof)
+- Toilet paper
+- Toothpaste, camp friendly body/hair soap, sunscreen
+- Paper towels
+- dish soap
+- pot and frying pan
+- spatula and tongs, plastic forks, knives and spoons, 2 folding knives.
+- gas stove and gas if needed for breakfast, I won't take it if you guys don't need it.
+- charcoal, wood, lighter fluid, axe, saw, lighter
+- rope
+- bug spray and thermacell for around the camp fire.
+- 2 water filters. One is a pump and one is a bag. (We don't bring enough water for 3 days)
+- tarp for in case it rains at night so we can set it up over us and not have to huddle in the tent.
+- 4 folding camp chairs
+- 4 life jackets
+- 6 man tent
+- tent fan
+- earplugs, emergency kit, ibuprophen, dramamine, motion sickeness wrist bands
+- picinic table lamp
+- playing cards and a cribbage board
+- 6 unopened bags of tube baits, probably enough for all of us. 3 bags for each boat. Bring your own tackle if you want to.
+- 40 or so tube jigs/hooks split between each boat, probably enough for all of us. Bring your own tackle if you want to.
+- Line nippers and hemostat/pliars for both boats.
+- coffee maker, coffee. I drink it black.
+- Friday night: steaks, potatoes and fixins for apple pudgie pies
+- Saturday night: spaghetti and fixins for apple pudgie pies
+- Small plastic bottle of bourbon.
+- 1 medium size soft cooler.
+
+### You guys
+- Tommy is going to bring another soft cooler
+- Saturday morning breakfast: kadin threw out pancakes, butter, peanut butter, syrup. Just figure it out and make sure we have something.
+- Saturday lunch: kadin threw out protein bars. Just figure it out and make sure we have something.
+- Sunday breakfast: kadin threw out pancakes, butter, peanut butter, syrup. Just figure it out and make sure we have something.
+- Sunday lunch: kadin threw out protein bars. Just figure it out and make sure we have something.
+- Your own water bottles, tooth brush, coffe mug
+- Don't forget hats and sunglasses or your eyes will be shot from 3 days of glare off the water.
+- If you don't want just water you'll need to bring your own drinks/booze. Just remember there's limited space and the ice doesn't last all 3 days.
+- Try not to bring glass.
+
+We can bring a bag of Sangria which is probably the friendliest wine for those that don't drink wine and it doesn't really need to be cold, let me know.  
